@@ -1,2 +1,5 @@
 # ML_Programming
-MAS2009_2020Spring
+### Woohyeok Choi
+MAS2009_2020Spring | 20151171
+
+
